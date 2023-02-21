@@ -1,0 +1,1 @@
+# foreach ja dictionary töö
